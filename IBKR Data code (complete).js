@@ -1,8 +1,8 @@
 function fetchAndProcessTrades() {
-    const token = '322053666311666319662016';  // Replace with your actual token
+    const token = '#########';  // Replace with your actual token
     const queries = {
-        activity: '1066040',  // Query ID for activity data
-        tradeConfirmation: '1066042'  // Query ID for trade confirmation data
+        activity: '#######',  // Query ID for activity data
+        tradeConfirmation: '#######'  // Query ID for trade confirmation data
     };
 
     // Fetch both activity and trade confirmation data
